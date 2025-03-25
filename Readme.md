@@ -30,7 +30,11 @@ Activate the virtual environment:
 ```sh
 pip install -r requirements.txt
 ```
+MAIN TO FOCUS 
+---
+```pip install pygame numpy tensorflow```
 
+if you haven't installed 
 ---
 
 ## Model Training
@@ -47,13 +51,14 @@ This will:
 ## Running the Digit Recognition App
 Once the model is trained, launch the Pygame interface:
 ```sh
-python requirements.py model.h5
+python recognition.py model.h5
 ```
 ### **Usage Instructions**
 - **Draw a digit** using the mouse.
 - **Press 'P'** to predict the digit.
 - **Press 'C'** to clear the screen.
 - **Close the window** to exit the program.
+
 
 ---
 
