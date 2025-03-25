@@ -10,7 +10,7 @@ This project is a **handwriting digit recognition** system using a **Convolution
 
 ---
 
-## Installation
+## Installation. 
 
 ### **1. Clone the Repository**
 ```sh
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 TO NOTE
 ---
-```pip install pygame numpy tensorflow```
+```pip3 install pygame numpy tensorflow```
 
 if you haven't installed 
 ---
