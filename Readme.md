@@ -10,7 +10,7 @@ This project is a **handwriting digit recognition** system using a **Convolution
 
 ---
 
-## Installation. 
+## Installation. (pycharm editor preferred)
 
 ### **1. Clone the Repository**
 ```sh
