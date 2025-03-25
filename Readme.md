@@ -30,7 +30,7 @@ Activate the virtual environment:
 ```sh
 pip install -r requirements.txt
 ```
-MAIN TO FOCUS 
+TO NOTE
 ---
 ```pip install pygame numpy tensorflow```
 
